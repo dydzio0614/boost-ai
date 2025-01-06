@@ -24,5 +24,9 @@
 	"czech" : {
 		"name" : "Zesílená AI",
 		"description" : "Přepracovává systém obtížnosti, čímž poskytuje AI více výhod. Nabízí několik možností pro zesílení, které můžete ovládat povolením nebo zakázáním jednotlivých submodů."
+	},
+	"polish" : {
+		"name" : "Ulepszone AI",
+		"description" : "Zrównoważenie systemu trudności, dające AI więcej zalet. Zapewnia kilka opcji doładowania, możesz kontrolować, włączając/wyłączając submody"
 	}
 }
