@@ -27,25 +27,6 @@
 			[
 				{
 					"type" : "STACK_HEALTH",
-					"val" : 50,
-					"valueType" : "PERCENT_TO_ALL",
-					"duration" : "ONE_BATTLE",
-					"sourceType" : "OTHER"
-				},
-				{
-					"type" : "CHANGES_SPELL_COST_FOR_ALLY",
-					"val" : 2,
-					"duration" : "ONE_BATTLE",
-					"sourceType" : "OTHER"
-				}
-			]
-		},
-		"rook":
-		{
-			"battleBonuses":
-			[
-				{
-					"type" : "STACK_HEALTH",
 					"val" : 65,
 					"valueType" : "PERCENT_TO_ALL",
 					"duration" : "ONE_BATTLE",
@@ -59,26 +40,7 @@
 				}
 			]
 		},
-		"queen":
-		{
-			"battleBonuses":
-			[
-				{
-					"type" : "STACK_HEALTH",
-					"val" : 80,
-					"valueType" : "PERCENT_TO_ALL",
-					"duration" : "ONE_BATTLE",
-					"sourceType" : "OTHER"
-				},
-				{
-					"type" : "CHANGES_SPELL_COST_FOR_ALLY",
-					"val" : 4,
-					"duration" : "ONE_BATTLE",
-					"sourceType" : "OTHER"
-				}
-			]
-		},
-		"king":
+		"rook":
 		{
 			"battleBonuses":
 			[
@@ -92,6 +54,44 @@
 				{
 					"type" : "CHANGES_SPELL_COST_FOR_ALLY",
 					"val" : 5,
+					"duration" : "ONE_BATTLE",
+					"sourceType" : "OTHER"
+				}
+			]
+		},
+		"queen":
+		{
+			"battleBonuses":
+			[
+				{
+					"type" : "STACK_HEALTH",
+					"val" : 150,
+					"valueType" : "PERCENT_TO_ALL",
+					"duration" : "ONE_BATTLE",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CHANGES_SPELL_COST_FOR_ALLY",
+					"val" : 7,
+					"duration" : "ONE_BATTLE",
+					"sourceType" : "OTHER"
+				}
+			]
+		},
+		"king":
+		{
+			"battleBonuses":
+			[
+				{
+					"type" : "STACK_HEALTH",
+					"val" : 200,
+					"valueType" : "PERCENT_TO_ALL",
+					"duration" : "ONE_BATTLE",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CHANGES_SPELL_COST_FOR_ALLY",
+					"val" : 10,
 					"duration" : "ONE_BATTLE",
 					"sourceType" : "OTHER"
 				}
