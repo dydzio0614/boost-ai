@@ -28,6 +28,6 @@
 	},
 	"polish" : {
 		"name" : "Utrudnione AI",
-		"description" : "Rebalans poziomów trudności, dający AI dodatkowe premie. Udostępnia kilka opcji utrudniania, możesz je kontrolować włączając/wyłączając submody"
+		"description" : "Rebalans poziomów trudności, dający AI dodatkowe premie. Wielkość premi jest uzależniona od wybranego poziomu trudności. Udostępnia kilka opcji utrudniania, możesz je kontrolować włączając/wyłączając submody"
 	}
 }
