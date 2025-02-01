@@ -13,12 +13,6 @@
 					"sourceType" : "OTHER"
 				},
 				{
-					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 12,
-					"duration" : "PERMANENT",
-					"sourceType" : "OTHER"
-				},
-				{
 					"type" : "GENERATE_RESOURCE",
 					"subtype" : "resource.gold",
 					"val" : 185,
@@ -34,12 +28,6 @@
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 30,
-					"duration" : "PERMANENT",
-					"sourceType" : "OTHER"
-				},
-				{
-					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 15,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -63,12 +51,6 @@
 					"sourceType" : "OTHER"
 				},
 				{
-					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 20,
-					"duration" : "PERMANENT",
-					"sourceType" : "OTHER"
-				},
-				{
 					"type" : "GENERATE_RESOURCE",
 					"subtype" : "resource.gold",
 					"val" : 325,
@@ -84,12 +66,6 @@
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 48,
-					"duration" : "PERMANENT",
-					"sourceType" : "OTHER"
-				},
-				{
-					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 25,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
