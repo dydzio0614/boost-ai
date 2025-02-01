@@ -13,6 +13,6 @@
 	},
 	"czech" : {
 		"name" : "Globální bonusy pro AI",
-		"description" : "Hrdinové AI generují zlato jako bonus a získávají zkušenosti rychleji, také růst jednotek v městech AI je zvýšen. Bonusy se stupňují podle zvolené obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."
+		"description" : "Hrdinové AI generují zlato jako bonus a získávají zkušenosti rychleji. Bonusy se stupňují podle zvolené obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."
 	}
 }
